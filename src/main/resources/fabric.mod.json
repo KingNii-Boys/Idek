@@ -6,7 +6,7 @@
   "name": "I Dont Even Know",
   "description": "IDEK",
   "authors": [
-    "Me!"
+    "The_OG"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/Ide/icon.png",
+  "icon": "assets/Idek/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "idek.theog.idek.idek"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "idek.mixins.json"
   ],
 
   "depends": {
