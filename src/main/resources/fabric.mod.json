@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "idek",
+  "version": "1.0.0",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "I Dont Even Know",
+  "description": "IDEK",
   "authors": [
     "Me!"
   ],
@@ -14,7 +14,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/Ide/icon.png",
 
   "environment": "*",
   "entrypoints": {
